@@ -25,4 +25,4 @@ Este proyecto consiste en un análisis detallado del rendimiento de cuatro tiend
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/c3sv/Desafio-Alura-Latam-Data-Science.git
